@@ -9,4 +9,4 @@ I'm a 3rd-year Computer Science student at Lev Academic Center, with a strong pa
 
 Feel free to explore my featured projects below. I highly recommend checking out **NetBuddy** - a ReAct AI agent with built-in security guardrails, and **DepArt** - a multi-threaded system demonstrating complex architecture and thread synchronization.
 
-[LinkedIn](https://www.linkedin.com/in/miri-yaakobi-868790388/) · [Email](miri.m.y1984@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/miri-yaakobi-868790388/) · [Email](mailto:miri.m.y1984@gmail.com)
