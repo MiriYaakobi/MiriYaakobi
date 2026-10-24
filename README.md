@@ -12,14 +12,14 @@
 
 Third-year Computer Science student at JCT, focused on cybersecurity and system architecture. Seeking a student position in cybersecurity to tackle real-world challenges!
 
-🔭 **Currently Exploring:** Reverse engineering, pwndbg, and memory corruption analysis.
+🌱 **Currently Exploring:** Reverse engineering, pwndbg, and memory corruption analysis.
 
-💡 **Featured Projects:**
+📌 **Featured Projects:**
 - **[Vulnerability Researcher Portfolio](https://github.com/MiriYaakobi/vr-portfolio)** *(In Progress)*: Developing a cybersecurity research environment for vulnerability analysis, using Ubuntu, Docker, and Ghidra.
 - **[NetBuddy](https://github.com/MiriYaakobi/NetBuddy):** Built a Python ReAct agent that retrieves networking notes with RAG and evaluates subnetting queries.
 - **[DepArt_Project](https://github.com/MiriYaakobi/DepArt_Project):** C#/.NET delivery-management system with layered architecture and a multithreaded simulator.
 
-🎨 **Fun fact:** I created a massive shared Google Drive for my fellow CS students. When I'm not coding, I'm probably painting! 🖼️🎨
+💭 **Fun fact:** I created a massive shared Google Drive for my fellow CS students. When I'm not coding, I'm probably painting! 🖼️🎨
 
 ### 🛠️ Tech Stack
 
