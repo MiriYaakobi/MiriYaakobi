@@ -48,10 +48,6 @@ Third-year Computer Science student at JCT, focused on cybersecurity and system 
   <a href="mailto:miri.m.y1984@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="./assets/profile.gif" width="200" alt="Animated illustration of Miri" />
-</p>
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -61,6 +57,10 @@ Third-year Computer Science student at JCT, focused on cybersecurity and system 
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=MiriYaakobi&bg_color=00000000&color=f77eb2&line=f77eb2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="./assets/profile1.gif" width="800" alt="Animated illustration of Miri" />
 </p>
 
 ---
