@@ -60,7 +60,7 @@ Third-year Computer Science student at JCT, focused on cybersecurity and system 
 </p>
 
 <p align="center">
-  <img src="./assets/profile1.gif" width="800" alt="Animated illustration of Miri" />
+  <img src="./assets/profile1.gif" width="700" alt="Animated illustration of Miri" />
 </p>
 
 ---
